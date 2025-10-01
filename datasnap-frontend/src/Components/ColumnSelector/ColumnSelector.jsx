@@ -84,7 +84,7 @@ const ColumnSelector = ({
         </div>
       )}
     </div>
-  );
+  ); 
 };
 
 export default ColumnSelector;
